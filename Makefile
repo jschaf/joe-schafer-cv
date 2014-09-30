@@ -1,4 +1,6 @@
 
+.SILENT:
+
 BUILDDIR = build
 DATE = $(shell date "+%Y-%m-%d")
 
