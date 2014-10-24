@@ -42,7 +42,6 @@ cv-pdf: builddir
 .PHONY: cv-html
 cv-html: builddir
 	echo "Creating cv-html"
-
 .PHONY: cv-word
 cv-word: builddir
 	echo "Creating cv-word"
@@ -65,3 +64,7 @@ resume-word: builddir
 .PHONY: builddir
 builddir:
 	mkdir -p $(BUILDDIR)
+
+.PHONY: clean
+clean:
+	rm -rf $(BUILDDIR)/*
