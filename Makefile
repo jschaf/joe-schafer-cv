@@ -60,6 +60,12 @@ resume-html: builddir
 .PHONY: resume-word
 resume-word: builddir
 	echo "Creating resume-word"
+	pandoc						\
+	  --smart					\
+	  --standalone					\
+	  --no-tex-ligatures				\
+	  -o $(BUILDDIR)/cv-joe-schafer-$(DATE).docx    \
+	  ${CV_INCLUDES}
 
 .PHONY: builddir
 builddir:
@@ -67,4 +73,4 @@ builddir:
 
 .PHONY: clean
 clean:
-	rm -rf $(BUILDDIR)/*
+	rm -rf $(BUILDDIR)
