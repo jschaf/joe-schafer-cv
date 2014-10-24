@@ -1,6 +1,6 @@
 ## Professional Experience: Military
 
-Chief Logistics Officer, 2013-2014
+2013-2014, Chief Logistics Officer
 
 82nd Airborne Division – Fort Bragg, NC
 
@@ -32,7 +32,7 @@ major organization systems and all augmentation systems.
 * Streamlined supply operations; turned-in $420,000 of excess and
   outdated equipment.
 
-Platoon Leader, 2012
+2012, Platoon Leader
 
 82nd Airborne Division – Fort Brag, NC
 
@@ -45,7 +45,7 @@ fitness, and professional development necessary for victory in combat.
 * Led Brigade decisive operation in a Joint Exercise parachute
 assault.  Seized key objectives in record time.
 
-Platoon Leader, 2011-2012
+2011-2012, Platoon Leader
 
 82nd Airborne Division, Afghanistan
 
